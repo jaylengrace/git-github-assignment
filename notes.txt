@@ -1,2 +1,4 @@
 git - this is a way track changes locally within your computer
 git hub - a way to store your code and share along with friend/peers/public
+
+feature-branch - adding branches help whenever you are working in a team of delvopers so that it doesn't mess with other people working on the same thing. 
