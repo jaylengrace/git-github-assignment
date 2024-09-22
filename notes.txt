@@ -1,0 +1,2 @@
+git - this is a way track changes locally within your computer
+git hub - a way to store your code and share along with friend/peers/public
