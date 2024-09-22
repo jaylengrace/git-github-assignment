@@ -3,4 +3,4 @@ git hub - a way to store your code and share along with friend/peers/public
 
 feature-branch - adding branches help whenever you are working in a team of delvopers so that it doesn't mess with other people working on the same thing. 
 
-Adrian Benton was here. I have your dog.
+Pull request allows you to merge one branch to another making it easy for collaboraters to make changes or add to your code. -Adrian was here
